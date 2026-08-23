@@ -1,4 +1,4 @@
-Software Engineer | Full-Stack Developer | Java/Spring | PHP/Laravel | React/Next.js | Networking & Cybersecurity
+Software Engineer | Full-Stack Developer | Java/Spring | Laravel/PHP | React/Next.js | Networking & Cybersecurity
 
 <!---
 MuideenAM/MuideenAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
